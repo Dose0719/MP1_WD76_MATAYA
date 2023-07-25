@@ -84,3 +84,8 @@ html{
     font-size: 30px;
     color: aqua;
 }
+.css-footer{
+    background-color: rgba(189, 185, 185, 0.37);
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
