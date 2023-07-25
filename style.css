@@ -1,0 +1,90 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lumanosimo', cursive;
+    background-image: url(img/4347464.jpg);
+}
+html{
+    scroll-behavior: smooth;
+  }
+
+.navbar-brand{
+        padding: 10px 50px;
+    
+}
+
+.navbar .navbar-nav{
+   /* padding: 0 50px; */
+}
+.css-nav{
+    background-color: rgba(34, 43, 87, 0.534);
+}
+#hero{
+    margin-top: 20px;
+}
+.carousel-inner{
+   
+   margin: 0 auto;
+   border: double 15px ;
+   border-radius: 10px;
+}
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.315);
+}
+.nav-link{
+    font-size: 18px;
+}
+.nav-link::after{
+    content: '';
+    height: 2px;
+    width: 100%;
+    background: rgb(0, 0, 0);
+    display: block;
+    opacity: 0;
+    transition: 0.5s;
+}
+.nav-link:hover:after{
+    opacity: 1;
+}
+.tsh1{
+    width: 100%;
+    text-align: center;
+    margin-top: 125px;
+    margin-bottom: 75px;
+    
+}
+hr{
+    
+}
+.bgcolor{
+    background-color: rgba(212, 213, 214, 0.37);
+}
+.zoom{
+    transition: .2s;
+}
+.zoom:hover{
+    transform: scale(1.5);
+}
+.fa-brands{
+    transition: .3s;
+}
+.fa-brands:hover{
+    transform: scale(1.3);
+}
+.edits{
+    transition: 0.5s;
+}
+.edits:hover{
+    transform: scale(0.7);
+}
+#donate{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.about-css{
+    background-color: rgba(207, 198, 198, 0.596);
+}
+.navbar-brand span{
+    font-size: 30px;
+    color: aqua;
+}
