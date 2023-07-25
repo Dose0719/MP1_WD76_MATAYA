@@ -142,7 +142,7 @@ html{
   .content .left-side .details .text-one,
   .content .left-side .details .text-two{
     font-size: 14px;
-    color: #afafb6;
+    color: #505068;
   }
   .container .content .right-side{
     width: 75%;
@@ -165,7 +165,7 @@ html{
     border: none;
     outline: none;
     font-size: 16px;
-    background: #63688fb6;
+    background: #63688f6c;
     border-radius: 6px;
     padding: 0 15px;
     resize: none;
