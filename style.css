@@ -14,9 +14,7 @@ html{
     
 }
 
-.navbar .navbar-nav{
-   /* padding: 0 50px; */
-}
+
 .css-nav{
     background-color: rgba(34, 43, 87, 0.534);
 }
@@ -54,9 +52,7 @@ html{
     margin-bottom: 75px;
     
 }
-hr{
-    
-}
+
 .bgcolor{
     background-color: rgba(212, 213, 214, 0.37);
 }
